@@ -1,9 +1,0 @@
-D:\工作目录\GitHub\EntityGenerator\SQLExportEntity\bin\Debug\SQLExportEntity.exe
-D:\工作目录\GitHub\EntityGenerator\SQLExportEntity\bin\Debug\SQLExportEntity.pdb
-D:\工作目录\GitHub\EntityGenerator\SQLExportEntity\obj\x86\Debug\SQLExportModels.Login.resources
-D:\工作目录\GitHub\EntityGenerator\SQLExportEntity\obj\x86\Debug\SQLExportModels.Main.resources
-D:\工作目录\GitHub\EntityGenerator\SQLExportEntity\obj\x86\Debug\SQLExportEntity.Properties.Resources.resources
-D:\工作目录\GitHub\EntityGenerator\SQLExportEntity\obj\x86\Debug\SQLExportEntity.csproj.GenerateResource.cache
-D:\工作目录\GitHub\EntityGenerator\SQLExportEntity\obj\x86\Debug\SQLExportEntity.csproj.CoreCompileInputs.cache
-D:\工作目录\GitHub\EntityGenerator\SQLExportEntity\obj\x86\Debug\SQLExportEntity.exe
-D:\工作目录\GitHub\EntityGenerator\SQLExportEntity\obj\x86\Debug\SQLExportEntity.pdb
